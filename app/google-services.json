@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898960422773",
+    "firebase_url": "https://ownmassanger.firebaseio.com",
+    "project_id": "ownmassanger",
+    "storage_bucket": "ownmassanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898960422773:android:32b99bcd23c3400176453c",
+        "android_client_info": {
+          "package_name": "com.example.ownmassanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898960422773-7lta44ik4rqioh8kk0qu0nisn5etdvi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnnAYL__hC3SU-nzMSpkn7O3OrKZjfqmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898960422773-7lta44ik4rqioh8kk0qu0nisn5etdvi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
